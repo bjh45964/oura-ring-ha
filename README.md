@@ -1,3 +1,8 @@
+# Sources:
+https://github.com/nitobuendia/oura-custom-component
+https://github.com/0xvisualiris/home-assistant-oura-ring/tree/main
+
+
 # Notice
 
 The component and platforms in this repository are not meant to be used by a
