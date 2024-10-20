@@ -1,6 +1,5 @@
 {
-    "name": "Oura Ring Home Assistant",
-    "hide_default_branch": true,
+    "name": "Oura Ring",
     "homeassistant": "2024.6.0",
     "render_readme": true
 }
