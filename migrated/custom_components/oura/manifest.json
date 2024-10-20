@@ -1,0 +1,13 @@
+{
+  "domain": "oura",
+  "name": "Oura Ring",
+  "integration_type": "device",
+  "version": "3.1",
+  "documentation": "https://github.com/bjh45964/oura-custom-component",
+  "issue_tracker": "https://github.com/bjh45964/oura-custom-component/issues",
+  "dependencies": ["core", "http"],
+  "codeowners": ["@bjh45964"],
+  "single_config_entry": true,
+  "iot_class": "cloud_polling",
+  "requirements": []
+}
