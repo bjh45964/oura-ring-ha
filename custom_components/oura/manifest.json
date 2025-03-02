@@ -1,0 +1,12 @@
+{
+  "domain": "oura",
+  "name": "Oura Ring",
+  "version": "3.1",
+  "documentation": "https://github.com/bjh45964/oura-custom-component",
+  "issue_tracker": "https://github.com/bjh45964/oura-custom-component/issues",
+  "dependencies": ["core", "http"],
+  "codeowners": [
+    "@bjh45964"
+  ],
+  "requirements": []
+}

@@ -1,12 +1,3 @@
-"""Constants for oura_ring."""
-
-from logging import Logger, getLogger
-
-LOGGER: Logger = getLogger(__package__)
-
-DOMAIN = "oura_ring"
-ATTRIBUTION = "Data provided by http://jsonplaceholder.typicode.com/"
-
 """Provides some constant for home assistant common things."""
 
 CONF_ATTRIBUTE_STATE = 'attribute_state'
